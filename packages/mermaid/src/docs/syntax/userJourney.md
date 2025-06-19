@@ -5,7 +5,7 @@
 Mermaid can render user journey diagrams:
 
 ```mermaid-example
-journey
+Travel
     title My working day
     section Go to work
       Make tea: 5: Me
